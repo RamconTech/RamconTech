@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamconTech
 - 👀 I’m interested in Artificial Intelligence/Machine learning
-- 🌱 I’m currently learning Reinfrocement learning
+- 🌱 I’m currently learning Reinforcement learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
